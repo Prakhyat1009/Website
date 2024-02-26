@@ -1,0 +1,24 @@
+body {
+	background-color: #ffcccc;
+	font-family: Arial, sans-serif;
+}
+
+#loveLetter {
+	width: 550px;
+	margin: 0 auto;
+	background-color: #ffffff;
+	padding: 20px;
+	border: 1px solid #ff0000;
+	border-radius: 10px;
+	text-align: center;
+	margin-top: 100px;
+	position: relative;
+}
+
+#loveLetter h1 {
+	color: #ff0000;
+}
+
+#loveLetter p {
+	font-size: 20px;
+}
